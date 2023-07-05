@@ -1,0 +1,10 @@
+.contactCenter {
+    height: 700px; 
+    padding-top: 50px;
+}
+
+@media ( max-width: 768px ) {
+   .contactCenter {
+    height: 1000px;
+   }
+}
