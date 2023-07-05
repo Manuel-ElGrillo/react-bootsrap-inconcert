@@ -1,8 +1,6 @@
 "use client"
 import React from 'react'
-import Carousel from 'react-bootstrap/Carousel';
-import styles from "../../styles/Carousel.module.css"
-
+import Carousel from 'react-bootstrap/Carousel'
 
 const CarouselSection = () => {
   return (
